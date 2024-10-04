@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 38f6d2bf03e39554e933ee0dc906d038
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - prefab: {instanceID: 0}
+  - buildingCopyPrefab: {instanceID: 0}
+  - attribute_1_Image: {fileID: 21300000, guid: c8a69ecdf54ac8e4b873466605de27ff, type: 3}
+  - attribute_2_Image: {fileID: 21300000, guid: cdb88fdb0cf46b244a667edaff21c7df, type: 3}
+  - attribute_3_Image: {fileID: 21300000, guid: c9ed6d6ea2f9657409bfa068d4846139, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
